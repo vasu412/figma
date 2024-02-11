@@ -8,6 +8,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    height: 100vh;
 }
 
 .background{
@@ -43,6 +44,9 @@ nav div{
 
 footer{
     margin: 0 120px;
+    color: white;
+    font-size: 10px;
+    width: 87vw;
 }
 
 
